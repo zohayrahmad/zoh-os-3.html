@@ -1,0 +1,8 @@
+{
+  "name": "zoh-os",
+  "private": true,
+  "description": "Personal operating system (static web app, no build step)",
+  "scripts": {
+    "test": "node --test tests/app.test.mjs"
+  }
+}
